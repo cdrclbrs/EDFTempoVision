@@ -18,7 +18,7 @@ The 'Tempo Data Insight' tool is designed to interface with the Tempo API Data f
 
 ## Installation & Usage
 
-[Some Explanation about the project](https://blog.lbrs.io/diy/2023/12/02/EDF-Tempo.html)
+[Some Explanation about the project](https://blog.lbrs.io/diy/2023/12/02/EDF-Tempo.html){:target="_blank"}
 
 TempoVision has been explicitly developed and tested on **kali linux**  
 
