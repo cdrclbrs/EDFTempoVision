@@ -18,8 +18,8 @@ The 'Tempo Data Insight' tool is designed to interface with the Tempo API Data f
 
 ## Installation & Usage
 
-
 TempoVision has been explicitly developed and tested on **kali linux**  
+
 ```
 change in main the dates needed for data extraction
 start_date = '2020-01-01'
@@ -30,10 +30,9 @@ python3 main.py
 
 ```
 
-
-
 ## Important Notes
-
+Do not forget to request API secret & Key on RTE site and put it in Constant folder
+you can store it in Base64: BASE64_AUTH_STR
 
 
 ## Contributions
